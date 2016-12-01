@@ -19,3 +19,19 @@ Slides Outline:
 - Clustering - Nipun
 - Survey Data
 - Conclusion Slide
+
+Comparison Plots:
+
+​	Histogram: Nipun
+
+​	Pie Chart: Karen
+
+* Gender - Pie Chart
+* Age - Histogram
+* Study time/week - Pie Chart
+* Failed Classes - Histogram
+* Romantic Relationship - Pie Chart
+* Free Time - Histogram
+* Weekday Consumption - Histogram
+* Weekend Consmpution - Histogram
+* Religious - Pie Chart
